@@ -1,0 +1,20 @@
+There are two types of forms
+1)Template Driven forms
+2)Reactive Forms(model driven forms)
+In template driven form when it comes for data binding we have 3 directories
+1)ngForm
+2)ngModel
+3)ngModelGroup
+
+
+Track Control state and validity-
+There are three classes
+class if true
+1)ng-touched-control has been visited
+2)ng-dirty-control's value has changed
+3)ng-valid-controls value is valid
+
+class if false
+1)ng-untouched
+2)ng-pristine
+3)ng-invalid
